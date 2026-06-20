@@ -1,4 +1,4 @@
-# Miradas que hablan
+# Miradas que hablan, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Miradas que hablan |
+| **Title** | Miradas que hablan, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/miradas-que-hablan/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Miradas que hablan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/miradas-que-hablan/) |
+| **Get License** | [Commercial Licensing for Miradas que hablan, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/miradas-que-hablan/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus ojos me llaman y el tiempo se pone en pausa
+> Con ese piquete, baby, tú eres la que causa
+> Que pierda el control y te siga hasta la cama
+> Tú tienes el fuego que mi alma reclama
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8ddd63bb05ff0a07fd43188aec504041ea0a2636f401702efa6089d4d2609227` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

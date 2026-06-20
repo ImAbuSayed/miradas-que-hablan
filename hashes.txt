@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Miradas que hablan, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Miradas que hablan, Vol. 2** (miradas-que-hablan-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T20:58:16.756151 | `v1` | `8ddd63bb05ff0a07fd43188aec504041ea0a2636f401702efa6089d4d2609227` | `99f2168fc2d80430a86cbe324aa9861763dd793dfc1972f3353cf14c4cc6011d` | `2026-06-20_miradas-que-hablan-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
